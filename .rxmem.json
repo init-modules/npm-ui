@@ -1,0 +1,7 @@
+{
+	"project_slug": "ui",
+	"name": "@init/ui",
+	"entry_type": "package",
+	"scope": "package:@init/ui",
+	"package_name": "@init/ui"
+}
